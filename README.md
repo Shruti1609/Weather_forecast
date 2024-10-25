@@ -20,7 +20,7 @@ Weather Monitor is a Python application that provides real-time weather data for
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-monitoring-dashboard.git
+   https://github.com/Shruti1609/Weather_forecast.git
 
 2. Install the required dependencies:
    ```bash
@@ -41,7 +41,11 @@ Weather Monitor is a Python application that provides real-time weather data for
 * Click the buttons to visualize daily summaries and alert statistics.
 
 ## Previews
-![db_ss](https://github.com/user-attachments/assets/037a9223-ad1e-462b-9e5c-e06a99cfb069)
+
+### Database
+![db_ss](https://github.com/user-attachments/assets/43907798-18d0-4045-a493-5960c0134748)
+
+### Weather Monitor
 <img width="847" alt="weather_monitor_ss" src="https://github.com/user-attachments/assets/d028b253-66ad-4c70-994e-56e2179f3569">
 
 
